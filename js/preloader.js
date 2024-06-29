@@ -6,7 +6,7 @@ var strings = [
   "Login denied",
   "Re-entering credentials",
   "Access granted",
-  "Finding CTF backend services",
+  "Finding Flag() backend services",
   "Services found on port 80",
   "Starting mcstausd",
   "Starting portmap",
@@ -60,7 +60,7 @@ var strings = [
   "Loading content",
   "Page rendered",
   "Starting display manager",
-  "WELCOME TO LAKSHYA CTF INC 2020",
+  "WELCOME PT. Pwn0sec Technologies Inc. 2014",
   "Initializing..."
 ];
 
